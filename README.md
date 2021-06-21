@@ -1,5 +1,4 @@
 # Hi, I'm Clément "LotuxPunk" Vandendaelen 👋
-***
 
 I am a young and passionate programmer analyst.
 
